@@ -4,8 +4,8 @@
   "description": "OAuth2.0 server plugin, based on egg-oauth2-server.",
   "eggPlugin": {
     "name": "oauth2",
-    "dependencies": ["egg-oauth2-server"],
-    "optionalDependencies": ["egg-http-proxy"]
+    "dependencies": ["oAuth2Server"],
+    "optionalDependencies": ["httpProxy"]
   },
   "keywords": [
     "egg",
